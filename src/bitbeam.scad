@@ -16,9 +16,10 @@ module beam(number_of_holes) {
             cube([beam_length,beam_width,1]);
     
             // Cut the holes
-             for (x=[4:8:beam_length]) {
-                translate([x,4,-1])
-                dxf_linear_extrude( file = "circle-4.8.dxf", height = 3);
+             for (x=[40 : 80 : beam_length*10]) {
+                 scale(.10)
+                 translate([x,40,-1])
+                 cylinder(r=24, h=3);
              }
         }
     }
