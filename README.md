@@ -6,7 +6,7 @@ Bitbeam = Lego + Grid Beam = Awesome
     <iframe width="480" height="390" src="http://www.youtube.com/embed/UDOhmOL9YPs" frameborder="0" allowfullscreen></iframe>
 </span>
 <span>
-    <img src="img/bitbeam-cube.jpg"/> 
+    ![Bitbeam Cube](img/bitbeam-cube.jpg") 
 </span>
 
 Bitbeam combines two favorite prototyping tools: balsa/basswood and Lego. The idea is to miniaturize [Grid](http://www.gridbeamnation.com) [Beam](http://gridbeam.biz) and make it Lego Technic compatible. 
