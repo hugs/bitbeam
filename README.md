@@ -13,7 +13,7 @@ Bitbeam combines two favorite prototyping tools: balsa/basswood and Lego. The id
 
 The wood for Bitbeam is easily sourced at any major art supply store. (Ask for the craft/hobby woods section.) Basswood is recommended over balsa, as basswood is stronger. Next, head to your [nearest laser cutter](http://techshop.ws/) and start cutting your bitbeams. 
 
-Bitbeam height and width is 5/16 inches. Each hole is 4.8 mm in diamater and 8mm apart from each other -- just like Lego Technic.
+Bitbeam height and width is 8mm. Each hole is 4.8 mm in diamater and 8mm apart from each other -- just like Lego Technic.
 
 The advantage of building your own Bitbeam parts over Lego is that 1) the materials are cheaper, 2) I can make parts in sizes that Lego doesn't make, and 3) playing with lasers is fun!
 
